@@ -1,0 +1,8 @@
+{
+  "name": "MeloMood - AI Music Recommender",
+  "description": "An intelligent music recommendation system that uses facial emotion recognition or text input to suggest playlists tailored to your current mood. It incorporates context like time of day and weather, supports multiple music platforms, and includes a feedback mechanism to refine suggestions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
